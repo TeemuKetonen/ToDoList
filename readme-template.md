@@ -1,11 +1,11 @@
-# Project Title 
-The name of the Project and all authors involved
+To Do List
+
 
 ## Demo link:
 Access my site at [google.com](https://google.com)
 
 ## How was the workload divided
-How was the workload divided. Who did what? 
+I did the project by myself
 
 
 
@@ -25,13 +25,12 @@ How was the workload divided. Who did what?
 
 ## Screenshots
 Add here atleast one screenshot of the working application 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+![Screenshot 2025-03-10 150934](https://github.com/user-attachments/assets/230f537a-6bdd-4447-93b7-fec1933c4b68)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Technologies
 Describe which technologies were used and the role of each in your project. 
-I used the following technologies `html`, `css`, ...
+I used the following technologies html, css, js
 
 ## Setup
 Write brief instructions on how to run and use your app. For example:
@@ -41,13 +40,15 @@ Write brief instructions on how to run and use your app. For example:
 - ...
 
 ## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+To Do List is published
 
 ## Credits
 List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
+- https://www.youtube.com/watch?v=G0jO8kUrg-I&t=867s&ab_channel=GreatStack
+- https://www.youtube.com/watch?v=THEKW1gITJI&ab_channel=Coding2GO
+- Copilot
 
+  
 ## License
 Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
