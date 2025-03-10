@@ -2,7 +2,7 @@ To Do List
 
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Access my site at https://app.netlify.com/sites/todolist-teemu/
 
 ## How was the workload divided
 I did the project by myself
@@ -21,7 +21,7 @@ I did the project by myself
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+To Do Lista is an app that helps you to keep on track with tasks you want to accomlish.
 
 ## Screenshots
 Add here atleast one screenshot of the working application 
@@ -47,9 +47,6 @@ List of contriubutors and sources you used during the project. Also mention if y
 - https://www.youtube.com/watch?v=G0jO8kUrg-I&t=867s&ab_channel=GreatStack
 - https://www.youtube.com/watch?v=THEKW1gITJI&ab_channel=Coding2GO
 - Copilot
-
+- https://medium.com/@medha_/todo-list-dom-manipulation-in-js-539ff1ad86a0
   
-## License
-Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
-Example: MIT license @ [author](author.com)
