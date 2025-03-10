@@ -23,17 +23,26 @@ Add here atleast one screenshot of the working application ![Screenshot 2025-03-
 
 
 Technologies
+
 I used html, css and js
+
 
 Setup
 Write brief instructions on how to run and use your app. For example:
 
+
 download all the files and open index.html in your browser
+
 download or clone the repository
+
 run npm install
 ...
+
+
 Status
+
 Finished
+
 
 Credits
 Links to videos I watched and took inspiration of:
